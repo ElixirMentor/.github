@@ -1,9 +1,8 @@
-# .github
 <img align="center" src="https://assets.elixirmentor.com/em_banner.png"/>
 
 ### Elixir Mentor - Master Elixir, Phoenix & LiveView 
 
-Welcome to Elixir Mentor, the premier online resource for mastering Elixir, Phoenix, and Phoenix LiveView! Whether you're a beginner or an experienced developer, we have something for everyone. I'm Jacob Luetzow, your dedicated guide, and mentor on this journey, bringing you top-quality courses and tutorials to empower you in building scalable full-stack and REST API solutions using the best technologies available.
+Welcome to Elixir Mentor, the premier online resource for mastering Elixir, Phoenix, and Phoenix LiveView! Whether you're a beginner or an experienced developer, we have something for everyone. I'm Jacob Luetzow, your dedicated guide and mentor on this journey, bringing you top-quality courses and tutorials to empower you in building scalable full-stack and REST API solutions using the best technologies available.
 
 Find me:
 
@@ -25,6 +24,5 @@ Find me:
 <a href="https://github.com/ElixirMentor/elixir_basics_solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elixirmentor&repo=elixir_basics_solutions&theme=midnight-purple&hide_border=false" />
 </a>
-
 
 
