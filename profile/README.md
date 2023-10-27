@@ -24,5 +24,10 @@ Find me:
 <a href="https://github.com/ElixirMentor/elixir_basics_solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elixirmentor&repo=elixir_basics_solutions&theme=midnight-purple&hide_border=false" />
 </a>
+<a href="https://github.com/ElixirMentor/elixir_our_first_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elixirmentor&repo=elixir_our_first_api&theme=midnight-purple&hide_border=false" />
+</a>
+
+
 
 
